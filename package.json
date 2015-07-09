@@ -1,0 +1,15 @@
+{
+  "name": "bower-resolver-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bower": "bower/bower#1.5.0-preview",
+    "bower-arti-resolver": "sheerun/bower-arti-resolver"
+  }
+}

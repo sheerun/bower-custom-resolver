@@ -1,0 +1,6 @@
+{
+  "resolvers": [
+    "bower-arti-resolver"
+  ],
+  "registry": "http://sheerun:pass4adam@yossis.artifactoryonline.com/yossis/api/bower/bower-remote"
+}
